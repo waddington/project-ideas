@@ -1,5 +1,5 @@
 # Project Ideas
-This is just a place to keep any project idea's that I have/come across.
+This is just a place to keep any project idea's that I have/come across and that I like and might work on at some point.
 
 * Ray tracer
 * Mesh manipulator
