@@ -12,3 +12,4 @@ This is just a place to keep any project idea's that I have/come across and that
 * URL shortener
 * RLBot (maybe a linux port?)
 * Pet mirco-chip search platorm
+* Combined chat system
