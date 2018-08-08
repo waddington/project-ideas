@@ -14,4 +14,4 @@ This is just a place to keep any project idea's that I have/come across and that
 * Pet mirco-chip search platorm
 * Combined chat system
 * Procedural generated terrain
-* Word Collection
+* ~~Word Collection~~
