@@ -17,3 +17,4 @@ This is just a place to keep any project idea's that I have/come across and that
 * ~~Word Collection~~
 * A Reddit bot
 * Fantasy League bot
+* Meal planner + shopping list planner
