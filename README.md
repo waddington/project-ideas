@@ -20,3 +20,4 @@ This is just a place to keep any project idea's that I have/come across and that
 * Meal planner + shopping list planner
 * Email tracker service
 * Wish farm/list
+* Some NGS data project
