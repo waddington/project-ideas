@@ -24,3 +24,4 @@ This is just a place to keep any project idea's that I have/come across and that
 * ~~Make Alzheimers project public~~
 * Create a Keras port of Alzheimers project
 * Create a Chrome idle page
+* Arduino clapper light switch
