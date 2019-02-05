@@ -6,7 +6,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * Sudoku solver
 * Text editor (basically electron app of CKEditor?)
 * RoboCode
-* WordPress admin panel desktop app
+* ~~WordPress admin panel desktop app~~
 * Printify dropshipping store
 * Coffee (cough, cough)
 * URL shortener
