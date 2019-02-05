@@ -9,7 +9,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * ~~WordPress admin panel desktop app~~
 * Printify dropshipping store
 * Coffee (cough, cough)
-* URL shortener
+* URL shortener (https://kaiw.host/XXXXXXXXX)
 * RLBot (maybe a linux port?)
 * Pet mirco-chip search platorm (already done)
 * Combined chat system
