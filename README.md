@@ -11,7 +11,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * Coffee (cough, cough)
 * URL shortener
 * RLBot (maybe a linux port?)
-* Pet mirco-chip search platorm
+* Pet mirco-chip search platorm (already done)
 * Combined chat system
 * Procedural generated terrain
 * ~~Word Collection~~
