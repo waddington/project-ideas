@@ -4,7 +4,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * Ray tracer
 * Mesh manipulator
 * Sudoku solver
-* Text editor
+* Text editor (basically electron app of CKEditor?)
 * RoboCode
 * WordPress admin panel desktop app
 * Printify dropshipping store
