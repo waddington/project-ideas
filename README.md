@@ -28,3 +28,4 @@ This is just a place to keep any project idea's that I have/come across and that
 * Arduino light alarm clock
 * Better, more robust, server architecture
 * GAnalytics-like dashboard for YNAB using API
+* Instagram account that just reposts stuff (think tumblr)
