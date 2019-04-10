@@ -29,3 +29,4 @@ This is just a place to keep any project idea's that I have/come across and that
 * Better, more robust, server architecture
 * GAnalytics-like dashboard for YNAB using API
 * Instagram account that just reposts stuff (think tumblr)
+* Small screen that displays daily chores list
