@@ -26,7 +26,14 @@ This is just a place to keep any project idea's that I have/come across and that
 * Create a Chrome idle page
 * Arduino clapper light switch
 * Arduino light alarm clock
-* Better, more robust, server architecture
+* ~~Better, more robust, server architecture~~
 * GAnalytics-like dashboard for YNAB using API
 * Instagram account that just reposts stuff (think tumblr)
 * Small screen that displays daily chores list
+
+* Explore NN compression
+* Explore NN's incorporating salience
+* Different MRI processing techniques
+* Different AI's that recognise clap sound
+* Facebook messenger chat bot to interact with YNAB
+
