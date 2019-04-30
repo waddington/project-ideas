@@ -30,6 +30,8 @@ This is just a place to keep any project idea's that I have/come across and that
 * GAnalytics-like dashboard for YNAB using API
 * Instagram account that just reposts stuff (think tumblr)
 * Small screen that displays daily chores list
+* Something with Django
+* Something with Redis
 
 * Explore NN compression
 * Explore NN's incorporating salience
