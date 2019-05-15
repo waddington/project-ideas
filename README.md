@@ -32,6 +32,9 @@ This is just a place to keep any project idea's that I have/come across and that
 * Small screen that displays daily chores list
 * Something with Django
 * Something with Redis
+* Something with AMCharts
+* A voting system that uses a blockchain to store the votes
+* A CNN to recognise plants but just use Google Images or something for training data
 
 * Explore NN compression
 * Explore NN's incorporating salience
