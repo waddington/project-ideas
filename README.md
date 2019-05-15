@@ -14,7 +14,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * Pet mirco-chip search platorm (already done)
 * Combined chat system
 * Procedural generated terrain
-* ~~Word Collection~~
+* Word Collection
 * A Reddit bot
 * Fantasy League bot
 * Meal planner + shopping list planner
@@ -37,6 +37,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * A CNN to recognise plants but just use Google Images or something for training data
 * Leather Apple watch strap
 * Facebook messenger chat bot to interact with YNAB
+* Webpage on server that lists all portals on there
 
 * Explore NN compression
 * Explore NN's incorporating salience
