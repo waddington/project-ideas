@@ -35,10 +35,11 @@ This is just a place to keep any project idea's that I have/come across and that
 * Something with AMCharts
 * A voting system that uses a blockchain to store the votes
 * A CNN to recognise plants but just use Google Images or something for training data
+* Leather Apple watch strap
+* Facebook messenger chat bot to interact with YNAB
 
 * Explore NN compression
 * Explore NN's incorporating salience
 * Different MRI processing techniques
 * Different AI's that recognise clap sound
-* Facebook messenger chat bot to interact with YNAB
 
