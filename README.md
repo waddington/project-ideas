@@ -38,7 +38,9 @@ This is just a place to keep any project idea's that I have/come across and that
 * Leather Apple watch strap
 * Facebook messenger chat bot to interact with YNAB
 * Webpage on server that lists all portals on there
-* A social media like-buying website - pass the order onto fiverr
+* A social media like-buying website - pass the order onto fiverr (socialadvisor.store)
+
+---
 
 * Explore NN compression
 * Explore NN's incorporating salience
