@@ -39,6 +39,8 @@ This is just a place to keep any project idea's that I have/come across and that
 * Facebook messenger chat bot to interact with YNAB
 * Webpage on server that lists all portals on there
 * A social media like-buying website - pass the order onto fiverr (socialadvisor.store)
+* React Native tinder clone
+* React Native instagram clone
 
 ---
 
