@@ -41,6 +41,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * A social media like-buying website - pass the order onto fiverr (socialadvisor.store)
 * React Native tinder clone
 * React Native instagram clone
+* Reddit bot that uses AI to give a score to photographs
 
 ---
 
