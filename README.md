@@ -43,6 +43,9 @@ This is just a place to keep any project idea's that I have/come across and that
 * React Native instagram clone
 * Reddit bot that uses AI to give a score to photographs
 * 8-bit computer emulator
+* CHIP-8 emulator
+* C web server
+
 
 ---
 
