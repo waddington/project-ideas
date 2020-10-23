@@ -45,6 +45,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * 8-bit computer emulator
 * CHIP-8 emulator
 * C web server
+* A crossview/parrallelview photo taker
 
 
 ---
