@@ -47,6 +47,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * C web server
 * A crossview/parrallelview photo taker
 * A style transfer GAN network to generate abstract art that I like
+* Workout tracker (RESTful API for backend, NextJS web version, ??? for native)
 
 
 ---
