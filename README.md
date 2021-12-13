@@ -50,6 +50,7 @@ This is just a place to keep any project idea's that I have/come across and that
 * Workout tracker (RESTful API for backend, NextJS web version, ??? for native)
 * Algo trading bot (sell whenever price goes up a bit, buy whenever it goes down a bit)
 * White-label, generic purpose, version of https://service.fastcat-cloud.org - different versions in different languages/frameworks for practice
+* Activity tracking app
 
 
 ---
